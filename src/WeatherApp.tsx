@@ -1,4 +1,4 @@
-import 'WeatherApp.css';
+// import 'WeatherApp.css';
 const WeatherApp = () => {
   return (
     <>
